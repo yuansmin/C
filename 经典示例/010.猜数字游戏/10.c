@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+
 void main()
 {
 	int Password=0,Number=0,price=58,i=0;
